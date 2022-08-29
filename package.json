@@ -1,0 +1,30 @@
+{
+  "name": "swaglabs-testing",
+  "version": "1.0.0",
+  "description": "Testes auto",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm cy:open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feroline/SwagLabs-testing.git"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "swagLabs",
+    "cypress.io",
+    "automation",
+    "automacao"
+  ],
+  "author": "Ana Carolina Rodrigues Rocha @feroline \u0016\u001b[B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feroline/SwagLabs-testing/issues"
+  },
+  "homepage": "https://github.com/feroline/SwagLabs-testing#readme",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  }
+}
